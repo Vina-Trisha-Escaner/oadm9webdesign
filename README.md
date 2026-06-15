@@ -6,6 +6,8 @@ Spotify Clone is a web-based music streaming application that allows users to li
 ## Live Demo
 https://music-stream-app.infinityfreeapp.com
 
+https://music-stream-app.infinityfreeapp.com
+
 ## GitHub Repository
 https://github.com/Vina-Trisha-Escaner/oadm9webdesign.git
 
